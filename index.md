@@ -1,5 +1,6 @@
 # Rachel Pizatella-Haswell
-![rachel_fran.doc](../rachel_fran.jpg)
+![rachel_fran.doc](rachel_fran.jpg)
+
 
 
 # About me 
