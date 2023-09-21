@@ -4,7 +4,7 @@
 
 
 # About me 
-Hi there. I'm a 2nd year PhD student at UC Berkeley's Goldman School of Public Policy. Prior to GSPP, I worked on impact evaluations focused on poverty alleviation, economic development and human rights, most recently at Innovations for Poverty Action. I have Master of Public Policy from GSPP and a Bachelor of Arts in Political Science and Religion from Duke University.
+Hi there. I'm a 2nd year PhD student at UC Berkeley's Goldman School of Public Policy. Prior to GSPP, I worked on impact evaluations focused on poverty alleviation, economic development and human rights, most recently at Innovations for Poverty Action. I have Master of Public Policy from GSPP and a Bachelor of Arts in Political Science and Religion from Duke University. Find my CV [here](Pizatella_CV.pdf). 
 
 # Research  
 My research lies at the intersection of social protection and financial inclusion with a focus on the design and delivery of social safety net programs that improve the lives of economically vulnerable populations in low-and-middle income countries.
